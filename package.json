@@ -1,0 +1,8 @@
+{
+  "name": "js-change-theme-on-mood",
+  "version": "1.0.0",
+  "description": "Change theme based on mood selection.",
+  "main": "index.html",
+  "dependencies": {},
+  "keywords": []
+}
